@@ -16,16 +16,8 @@ namespace DGD203_BurakBisneli_Assigment1
         public void Start()
         {
             _engine.Start();
-            CheckEngineStatus();
+            _engine.CheckStatus();
         }
-
-        private void CheckEngineStatus()
-        {
-            Console.WriteLine("Checking engine...");
-            if (_engine.Running)
-            {
-                Console.WriteLine("Engine is ready!");
-            }
-        }
+        
     }
 }

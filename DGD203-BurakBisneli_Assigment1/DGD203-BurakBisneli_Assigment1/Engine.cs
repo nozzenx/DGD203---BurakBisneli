@@ -1,4 +1,6 @@
-﻿namespace DGD203_BurakBisneli_Assigment1
+﻿using System;
+
+namespace DGD203_BurakBisneli_Assigment1
 {
     public abstract class Engine
     {
@@ -6,7 +8,7 @@
         protected int Torque;
         protected int MaxSpeed;
  
-        public bool Running {get; protected set;}
+        public bool Running {get; private set;}
 
         protected Engine(int hp, int torque, int maxSpeed)
         {
@@ -15,6 +17,14 @@
             MaxSpeed = maxSpeed;
         }
 
+        public void CheckStatus()
+        {
+            Console.WriteLine("Checking engine...");
+            if (Running)
+            {
+                Console.WriteLine("Engine is ready!");
+            }
+        }
     
         public void Start()
         {

@@ -1,0 +1,6 @@
+C:\Users\burak\Desktop\ISU-DigitalGameDesign\DGD203 Game Programming 1\Assigment1\DGD203-BurakBisneli\DGD203-BurakBisneli_Assigment1\DGD203-BurakBisneli_Assigment1\bin\Debug\DGD203_BurakBisneli_Assigment1.exe
+C:\Users\burak\Desktop\ISU-DigitalGameDesign\DGD203 Game Programming 1\Assigment1\DGD203-BurakBisneli\DGD203-BurakBisneli_Assigment1\DGD203-BurakBisneli_Assigment1\bin\Debug\DGD203_BurakBisneli_Assigment1.pdb
+C:\Users\burak\Desktop\ISU-DigitalGameDesign\DGD203 Game Programming 1\Assigment1\DGD203-BurakBisneli\DGD203-BurakBisneli_Assigment1\DGD203-BurakBisneli_Assigment1\obj\Debug\DGD203-BurakBisneli_Assigment1.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\ISU-DigitalGameDesign\DGD203 Game Programming 1\Assigment1\DGD203-BurakBisneli\DGD203-BurakBisneli_Assigment1\DGD203-BurakBisneli_Assigment1\obj\Debug\DGD203-BurakBisneli_Assigment1.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\ISU-DigitalGameDesign\DGD203 Game Programming 1\Assigment1\DGD203-BurakBisneli\DGD203-BurakBisneli_Assigment1\DGD203-BurakBisneli_Assigment1\obj\Debug\DGD203_BurakBisneli_Assigment1.exe
+C:\Users\burak\Desktop\ISU-DigitalGameDesign\DGD203 Game Programming 1\Assigment1\DGD203-BurakBisneli\DGD203-BurakBisneli_Assigment1\DGD203-BurakBisneli_Assigment1\obj\Debug\DGD203_BurakBisneli_Assigment1.pdb

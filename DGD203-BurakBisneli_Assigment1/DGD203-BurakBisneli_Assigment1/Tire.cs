@@ -13,8 +13,10 @@ namespace DGD203_BurakBisneli_Assigment1
             TirePressure = tirePressure;
         }
 
-        public virtual void CheckTirePressure()
+        public virtual void CheckPressure()
         {
+            Console.WriteLine("Checking tire pressure...");
+            
             if (TirePressure < 35)
             {
                 Console.WriteLine("Tire pressure is too low.");

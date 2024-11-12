@@ -8,8 +8,10 @@ namespace DGD203_BurakBisneli_Assigment1.Tires
         {
         }
 
-        public override void CheckTirePressure()
+        public override void CheckPressure()
         {
+            Console.WriteLine("Checking tire pressure...");
+            
             if (TirePressure < 40)
             {
                 Console.WriteLine("Tire pressure is too low for performance tires.");
